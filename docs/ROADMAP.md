@@ -11,4 +11,6 @@
 | 7 | Error handling, security and integration tests | Beta hardening |
 | 8 | Documentation, release packaging | Installable beta candidate |
 
-Day 1 is a foundation only. No Docker or GitHub integrations are implemented yet.
+Days 1 and 2 are complete: the CLI foundation and responsive terminal UI are implemented.
+
+Day 2 includes sidebar/compact navigation, planned integration status cards, module information, keyboard help, resize handling, and layout/navigation tests. Docker and GitHub integrations are not implemented yet. Day 3 starts Docker connection and container discovery.
